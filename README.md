@@ -3,9 +3,9 @@
 </div>
 
 <div align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=msajad79&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="msajad79's Github Stats">
+  <img align="center" src="https://github-stats-extended.vercel.app/api?username=msajad79&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="msajad79's Github Stats">
 
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=msajad79&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="msajad79's Github Stats">
+  <img align="center" src="https://github-stats-extended.vercel.app/api/top-langs/?username=msajad79&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="msajad79's Github Stats">
 </div>
 
 # Links
